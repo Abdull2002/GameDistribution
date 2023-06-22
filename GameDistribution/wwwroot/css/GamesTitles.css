@@ -1,0 +1,34 @@
+﻿*{
+    margin: 0;padding: 0; border:0;
+    box-sizing: border-box;
+}
+h2{
+    color: wheat;
+}
+body{
+    background-color: black;
+}
+.griditem img{
+    width: 410px;
+    height: 350px;
+    position: center;
+}
+.container1 {
+    border: 4px solid;
+    margin-top: -20px;
+    margin-left: -12px;
+    min-height: 93.7vh;
+    min-width: 196vh;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr; 
+    grid-column-gap: 8px;
+    grid-row-gap: 8px;
+}
+.griditem{
+    min-width: 200px; min-height:200px;
+    border : 4px solid white;
+}
+.footer {
+    margin-top: 30px;
+    width: 2480px;
+}

@@ -1,0 +1,79 @@
+﻿*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#footline {
+    background-color: red;
+    color: red;
+    width: 2480px;
+    height: 3px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#textbox1 {
+    font-size: 30px;
+    text-align: center;
+    margin-left: 50px;
+    width: 1200px;
+    height: 500px;
+    background-color: black;
+}
+
+#textbox2 {
+    font-size: 30px;
+    text-align: center;
+    
+    margin-left: 1260px;
+    margin-top: -500px;
+    width: 1200px;
+    height: 1550px;
+    background-color: black;
+}
+
+#title {
+    margin: 50px;
+}
+
+#redline {
+    background-color: red;
+    color: red;
+    width: 2480px;
+    height: 3px;
+    margin-left: 50px;
+}
+
+body {
+    background-color: black;
+}
+
+.Banner {
+    position: relative;
+    margin-left: -12px;
+    margin-top: -30px;
+    width: 2543px;
+    height: 1200px;
+    background-image: url(reddeadBanner.jpg);
+    background-size: cover;
+}
+
+#Deals {
+    position: absolute;
+    top: 300px;
+    left: 60px;
+    color: white;
+}
+
+.Center {
+}
+
+.center-img {
+    margin-left: 1200px;
+}
+
+.footer {
+    margin-top: 30px;
+    width: 2480px;
+}
